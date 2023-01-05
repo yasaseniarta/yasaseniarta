@@ -14,7 +14,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://instagram.com/ikyasaseniarta" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ikyasaseniarta" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/iketutyasaseniarta1469" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="iketutyasaseniarta1469" height="30" width="40" /></a>
+<a href="https://www.youtube.com/c/iketutyasaseniarta1469" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="@iketutyasaseniarta1469" height="30" width="40" /></a>
 </p>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=yasaseniarta&show_icons=true&locale=en&layout=compact" alt="yasaseniarta" /></p>
