@@ -17,7 +17,3 @@
 <a href="https://www.youtube.com/@iketutyasaseniarta1469" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="@iketutyasaseniarta1469" height="30" width="40" /></a>
 </p>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=yasaseniarta&show_icons=true&locale=en&layout=compact" alt="yasaseniarta" /></p>
-
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=yasaseniarta&show_icons=true&locale=en" alt="yasaseniarta" /></p>
