@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **C++, html, bootstrap.**
 
-- 📫 How to reach me **yasaseniarta**
+- 💬 Quote for you **"Life is not a destination, but a journey."**
 
 - ⚡ Fun fact **my life is a joke**
 
