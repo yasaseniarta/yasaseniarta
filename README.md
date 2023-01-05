@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=yasaseniarta" alt="yasaseniarta" /></a> </p>
 
-- 🌱 I’m currently learning **C++, html, bootstrap.**
+- 🌱 I’m currently learning **C++/react/js/html/css**
 
 - 💬 Quote for you **"Life is not a destination, but a journey."**
 
